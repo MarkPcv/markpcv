@@ -1,5 +1,5 @@
 # Greetings! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
-My name is Mark Pochivalov. I am mechatronics engineer, who pursues IT area. I'm from Kazakhstan, studied in New Zealand and live in Moscow, Russia.
+My name is Mark Pochivalov. I am mechatronics engineer, who pursues IT area. I'm from Kazakhstan, finished Bachelor and Masters Engineering in Mechatronics in Auckland, New Zealand. Currently live in Moscow, Russia.
 
 - 📫 How to reach me **pochivalov.mark@gmail.com**
 
